@@ -1,0 +1,4 @@
+@CHARSET "UTF-8";
+header, footer, main, aside, nav {
+	border:1px solid red
+	}
